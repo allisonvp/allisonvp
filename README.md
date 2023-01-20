@@ -7,7 +7,6 @@
 
      ### FullStack Dev.
      ### Designer
-     ### Disrupter
 
 
 ### Dev Skills
