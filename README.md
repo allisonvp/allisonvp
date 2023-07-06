@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-   I'm Allison, a Full-Stack Engineer with exceptional programming, debugging and problem-solving skills
+   I'm Allison, a Software Engineer with exceptional programming, debugging and problem-solving skills
    in order to guarantee the overall quality of a product. Self-  taught, and fast learner who works efficiently in a team.
    Interested in developing and managing projects using agile methodologies to ensure an excellent user experience,
    exceed company goals and improve full-stack developer skills.
